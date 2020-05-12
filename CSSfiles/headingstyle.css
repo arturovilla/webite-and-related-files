@@ -1,0 +1,10 @@
+@charset "UTF-8";
+#heading {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: normal;
+    text-align: center;
+    height: auto;
+    margin-top: 72px;
+}
+body header {
+}
